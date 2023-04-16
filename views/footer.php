@@ -15,7 +15,7 @@
         </div>
         <hr>
 
-        <div class="uk-container">
+         <div class="uk-container">
             <div class="bottomFooter">
                 <div class="footer_logo">
                     <!-- https://via.placeholder.com/200x100 -->
@@ -23,16 +23,15 @@
                 </div>
 
                 <div class="footer_sub">
-                    <p>경기도 용인시 처인구 포곡읍 포곡로 141번길 3-4 글로벌타운 B03호</p>
-                    <p>회사명 : 더퍼니잇 | 대표자 : 박명재 | 사업자등록번호 : 712-18-01091 | 통신판매업신고 : 2019-용인처인-0508</p>
-                    <p>고객센터 대표번호: 010-9447-0496</p>
+                    <p>경기도 퍼플빈시 퍼블빈동 퍼블빈로 05</p>
+                    <p>회사명 : HARMONIA | 대표자 : 퍼플빈 | 사업자등록번호 : 000-00-00000 | 통신판매업신고 : 2023-퍼플빈랜드-0505</p>
+                    <p>고객센터 대표번호: 010-0000-0000</p>
                     <p>고객센터 운영시간 : 9시~18시(주말.공휴일 제외) ※점심시간 12~13시</p>
-                    <p>Copyright ⓒ 2021 더퍼니잇. All rights reserved.</p>
+                    <p>Copyright ⓒ 2023 HARMONIA. All rights reserved.</p>
                 </div>
             </div>
         </div>
     </footer>
-
 
 </body>
 

@@ -23,8 +23,8 @@
 	<script src="/dev/lib/semantic.min.js"></script>
 
 	<script src="/dev/js/script.js"></script>
-
-	<title>너무 쉬운 중고거래, 다장터</title>
+	<link rel="icon" href="/dev/dev_img/chair_pavicon.svg">
+	<title>헤르모니아 온라인 쇼룸</title>
 </head>
 <?php flush(); ?>
 <body>
